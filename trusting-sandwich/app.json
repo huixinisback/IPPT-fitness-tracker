@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "trusting-sandwich",
+    "slug": "snack-66357c09-8b82-4926-981f-c81da71d7684",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.huixinisback.snack66357c098b824926981fc81da71d7684"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
